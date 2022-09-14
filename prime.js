@@ -5,7 +5,7 @@ if(num%i==0){
 factors++;
 }
 }
-if(factors==3){
+if(factors==2){
 console.log("Yes");
 } else{
 console.log("No");
